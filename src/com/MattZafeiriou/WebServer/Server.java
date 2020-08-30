@@ -24,7 +24,7 @@ public class Server
 		{
 			e1.printStackTrace();
 		}
-		server.setPerformancePreferences( 10000, 500, 100000 );
+		
 		System.out.println( "Server is ready" );
 		while( true )
 		{
